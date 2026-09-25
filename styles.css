@@ -5,8 +5,8 @@
 /* 品牌字体：与应用标题栏同款的 Mohave 可变字重字体 */
 @font-face {
     font-family: 'Mohave';
-    src: url('../../src/renderer/fonts/Mohave/Mohave-VariableFont_wght.ttf') format('truetype-variations'),
-         url('../../src/renderer/fonts/Mohave/Mohave-VariableFont_wght.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/EsprinProject/Nemo/main/src/renderer/fonts/Mohave/Mohave-VariableFont_wght.ttf') format('truetype-variations'),
+         url('https://raw.githubusercontent.com/EsprinProject/Nemo/main/src/renderer/fonts/Mohave/Mohave-VariableFont_wght.ttf') format('truetype');
     font-weight: 300 700;
     font-style: normal;
     font-display: swap;
